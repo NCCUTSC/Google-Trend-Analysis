@@ -1,4 +1,4 @@
-setwd("C:/Users/ASUS/OneDrive/桌面/google trend/資料原始檔")
+setwd("C:/Users/ASUS/OneDrive/桌面/google trend/R工作用")
 issue1<-c("高齡化社會","高齡友善","老人居住安排","無障礙空間",
                                   "老人共食","送餐服務","老人送餐","以屋換屋","以房養老",
                                   "全齡宅","人口老化","老人教育","樂齡學習")
